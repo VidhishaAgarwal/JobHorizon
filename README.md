@@ -64,8 +64,7 @@ This application was built with a focus on user experience, scalability, and sec
 ## **Project Structure** 
 
 /JobHorizon
-
-├── frontend/              # React frontend  
+ 
 ├── backend/               # Node.js and Express backend  
 ├── models/                # Mongoose schemas  
 ├── routes/                # API routes  
